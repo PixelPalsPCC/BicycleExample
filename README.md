@@ -1,1 +1,6 @@
 # BicycleExample
+
+
+export PATH=".:$PATH:~"
+
+
